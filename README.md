@@ -16,7 +16,6 @@ Programação Orientada a Objetos (POO) <br>
 
 ## 📫 Como me encontrar:
 LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
-Instagram: @preguicakk <br>
 E-mail: stephaniecarolinedev@gmail.com <br>
 GitHub: https://github.com/StephanieCaroll <br>
 
