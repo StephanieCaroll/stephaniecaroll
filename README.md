@@ -12,7 +12,7 @@ TypeScript, Programação Orientada a Objetos (POO)
 🌟 Projetos em Destaque:
 🛒 Projeto E -commerce com a ultização de API
 
-##📫 Como me encontrar:
+## 📫 Como me encontrar:
 LinkedIn: linkedin.com/in/stephanie-caroline-97973430b
 Instagram: @preguicakk
 E-mail: stephaniecarolinedev@gmail.com
