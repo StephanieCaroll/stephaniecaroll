@@ -22,7 +22,7 @@ Adoro trabalhar em equipe e estou sempre aberto(a) a novas oportunidades e colab
 
 "O conhecimento cresce quando compartilhado." 🚀✨
 
-##💖 Obrigado por visitar meu perfil! Não se esqueça de deixar um ⭐ nos repositórios que você gosta.
-
-``` ![Imagem do Projeto](https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif)
+💖 Obrigado por visitar meu perfil! Não se esqueça de deixar um ⭐ nos repositórios que você gosta.
+## 
+ ![Imagem do Projeto](https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif)
 
