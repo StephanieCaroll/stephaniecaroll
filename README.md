@@ -11,7 +11,7 @@ Ferramentas: Git, GitHub, VS Code <br>
 ## 📚 Atualmente estou aprendendo:
 TypeScript <br> 
 Programação Orientada a Objetos (POO) <br>
-🌟 Projetos em Destaque:
+## 🌟 Projetos em Destaque:
 🛒 Projeto E -commerce com o uso de API 
 
 ## 📫 Como me encontrar:
