@@ -1,6 +1,6 @@
 ## 👋 Olá, bem vindo ao meu GitHub!
 🚀 Sobre Mim
-- Olá! Meu nome é Stephanie Caroline de Oliveira Macedo e sou apaixonado(a) por Desenvolvimento web, UI/UX design . Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Olá! Meu nome é Stephanie Caroline de Oliveira Macedo e sou apaixonado(a) por Desenvolvimento web, UI/UX design . Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
 ## 💻 Tecnologias e ferramentas que utilizam:
 Frontend: HTML, CSS, JavaScript, React, Next.js
@@ -23,3 +23,5 @@ Adoro trabalhar em equipe e estou sempre aberto(a) a novas oportunidades e colab
 "O conhecimento cresce quando compartilhado." 🚀✨
 
 ##💖 Obrigado por visitar meu perfil! Não se esqueça de deixar um ⭐ nos repositórios que você gosta.
+![Imagem do Projeto](https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif)
+
