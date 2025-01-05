@@ -18,8 +18,9 @@ Programação Orientada a Objetos (POO) <br>
 LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
 Instagram: @preguicakk <br>
 E-mail: stephaniecarolinedev@gmail.com <br>
+GitHub: https://github.com/StephanieCaroll <br>
 
-🤝 Colabore Comigo! <br>
+## 🤝 Colabore Comigo! <br>
 Adoro trabalhar em equipe e estou sempre aberto(a) a novas oportunidades e colaborações. Se você tem uma ideia incrível ou precisa de ajuda em algum projeto, não hesite em entrar em contato! <br>
 
 "O conhecimento cresce quando compartilhado." 🚀✨ <br>
