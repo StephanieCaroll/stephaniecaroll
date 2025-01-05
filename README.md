@@ -7,10 +7,12 @@ Frontend: HTML, CSS, JavaScript, React, Next.js <br>
 Backend: Node.js <br>
 Banco de Dados: MySQL <br>
 Ferramentas: Git, GitHub, VS Code <br>
-📚 Atualmente estou aprendendo:
-TypeScript <br> Programação Orientada a Objetos (POO)
+
+## 📚 Atualmente estou aprendendo:
+TypeScript <br> 
+Programação Orientada a Objetos (POO) <br>
 🌟 Projetos em Destaque:
-🛒 Projeto E -commerce com a ultização de API
+🛒 Projeto E -commerce com o uso de API 
 
 ## 📫 Como me encontrar:
 LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
