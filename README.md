@@ -9,8 +9,8 @@ Banco de Dados: MySQL, Postegres <br>
 Ferramentas: Git, GitHub, VS Code <br>
 
 ## 📚 Atualmente estou aprendendo:
-TypeScript <br> 
-Programação Orientada a Objetos (POO) <br>
+Python <br> 
+
 ## 🌟 Projetos em Destaque:
 🛒 Projeto E -commerce com o uso de API 
 
