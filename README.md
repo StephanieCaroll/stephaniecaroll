@@ -52,4 +52,7 @@
 
 ---
 
-> ✨ <span style="color:#8B0000 !important;">“𝕺𝖚𝖈𝖆𝖒-𝖓𝖔𝖘 — 𝖔𝖘 𝖋𝖎𝖑𝖍𝖔𝖘 𝖉𝖆 𝖓𝖔𝖎𝖙𝖊. 𝕼𝖚𝖊 𝖒𝖚́𝖘𝖎𝖈𝖆 𝖊𝖑𝖊𝖘 𝖋𝖆𝖟𝖊𝖒!” — 𝕭𝖗𝖆𝖒 𝕾𝖙𝖔𝖐𝖊𝖗, 𝕯𝖗𝖆́𝖈𝖚𝖑𝖆</span> 🕯️
+> <span style="color:red !important; font-family:UnifrakturMaguntia,serif; font-size:22px;">
+“𝕺𝖚𝖈𝖆𝖒-𝖓𝖔𝖘 — 𝖔𝖘 𝖋𝖎𝖑𝖍𝖔𝖘 𝖉𝖆 𝖓𝖔𝖎𝖙𝖊. 𝕼𝖚𝖊 𝖒𝖚𝖘𝖎𝖈𝖆 𝖊𝖑𝖊𝖘 𝖋𝖆𝖟𝖊𝖒!” — 𝕭𝖗𝖆𝖒 𝕾𝖙𝖔𝖐𝖊𝖗, 𝕯𝖗á𝖈𝖚𝖑𝖆
+</span>
+
