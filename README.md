@@ -5,8 +5,3 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=StephanieCaroll&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <Br>
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="Detalhes do perfil">
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg" alt="Tempo produtivo">
-</div>
