@@ -6,7 +6,7 @@
 
 <h3>Contatos:</h3> <p> <a href="https://github.com/StephanieCaroll" target="_blank"> <img src="https://img.shields.io/static/v1?label=GitHub&message=StephanieCaroll&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub"> </a> 
 <a href="https://linkedin.com/in/stephanie-caroline-97973430b" target="_blank"> <img src="https://img.shields.io/static/v1?label=LinkedIn&message=StephanieCaroll&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="LinkedIn"> </a> 
-<a href="mailto:stephaniecarolinedev@gmail.com"> <img src="https://img.shields.io/static/v1?label=Gmail&message=stephanie.caroline@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail" alt="Gmail"> </a> 
+<a href="mailto:stephaniecarolinedev@gmail.com"> <img src="https://img.shields.io/static/v1?label=Gmail&message=stephaniecarolinedev@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail" alt="Gmail"> </a> <br>
 <a href="https://www.instagram.com/stephaniecaroldev" target="_blank"> <img src="https://img.shields.io/static/v1?label=Instagram&message=@seu_usuario_aqui&color=E4405F&style=for-the-badge&logo=Instagram" alt="Instagram"> </a> </p>
 
 </td>
