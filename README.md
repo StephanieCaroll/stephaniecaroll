@@ -1,15 +1,16 @@
+# 𝕺𝖑𝖆́!  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=3000&pause=500&color=8B0000&center=true&vCenter=true&width=700&lines=𝕺𝖑𝖆́!" alt="𝕺𝖑𝖆́!" />
+  <img src="https://img.shields.io/badge/𝕺𝖑𝖆́!-8B0000?style=for-the-badge&logoColor=FFFFFF" alt="𝕺𝖑𝖆́!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&duration=3000&pause=500&color=8B0000&center=true&vCenter=true&width=700&lines=𝕭𝖊𝖒-𝖛𝖎𝖓𝖉𝖔+𝖆𝖔+𝖒𝖊𝖚+𝖆𝖇𝖎𝖘𝖒𝖔+𝖉𝖊+𝖈𝖔́𝖉𝖎𝖌𝖔!" alt="𝕭𝖊𝖒-𝖛𝖎𝖓𝖉𝖔..." />
+  <img src="https://img.shields.io/badge/𝕭𝖊𝖒-𝖛𝖎𝖓𝖉𝖔_𝖆𝖔_𝖒𝖊𝖚_𝖆𝖇𝖎𝖘𝖒𝖔_𝖉𝖊_𝖈𝖔́𝖉𝖎𝖌𝖔!-8B0000?style=for-the-badge&logoColor=FFFFFF" alt="𝕭𝖊𝖒-vindo..." />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=8B0000&center=true&vCenter=true&width=700&lines=𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘" alt="𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘" />
+  <img src="https://img.shields.io/badge/𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘-8B0000?style=for-the-badge&logoColor=FFFFFF" alt="Tecnologias" />
 </p>
 
 <div align="left">
@@ -31,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&duration=3000&pause=500&color=8B0000&center=true&vCenter=true&width=700&lines=📜+𝖂𝖗𝖎𝖙𝖎𝖓𝖌𝖘+𝖔𝖋+𝖙𝖍𝖊+𝕯𝖆𝖗𝖐+𝕬𝖗𝖙𝖘" alt="Writing of the Dark Arts" />
+  <img src="https://img.shields.io/badge/📜_𝖂𝖗𝖎𝖙𝖎𝖓𝖌𝖘_𝖔𝖋_𝖙𝖍𝖊_𝕯𝖆𝖗𝖐_𝕬𝖗𝖙𝖘-8B0000?style=for-the-badge&logoColor=FFFFFF" alt="Writing of the Dark Arts" />
 </p>
 
 <div align="center">
@@ -42,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&duration=3000&pause=500&color=8B0000&center=true&vCenter=true&width=700&lines=🦇+𝕮𝖔𝖒𝖚𝖓𝖎𝖖𝖚𝖊-𝖘𝖊+𝖈𝖔𝖒𝖎𝖌𝖔" alt="Comunique-se comigo" />
+  <img src="https://img.shields.io/badge/🦇_𝕮𝖔𝖒𝖚𝖓𝖎𝖖𝖚𝖊-𝖘𝖊_𝖈𝖔𝖒𝖎𝖌𝖔-8B0000?style=for-the-badge&logoColor=FFFFFF" alt="Comunique-se comigo" />
 </p>
 
 <div align="left">
@@ -60,5 +61,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=28&duration=4000&pause=500&color=8B0000&center=true&vCenter=true&width=700&lines=✨+“𝕺𝖚𝖈𝖆𝖒-𝖓𝖔𝖘+—+𝖔𝖘+𝖋𝖎𝖑𝖍𝖔𝖘+𝖉𝖆+𝖓𝖔𝖎𝖙𝖊.+𝕼𝖚𝖊+𝖒𝖚́𝖘𝖎𝖈𝖆+𝖊𝖑𝖊𝖘+𝖋𝖆𝖟𝖊𝖒!”+—+𝕭𝖗𝖆𝖒+𝕾𝖙𝖔𝖐𝖊𝖗,+𝕯𝖗á𝖈𝖚𝖑𝖆" alt="Citação Dracula" />
+  <img src="https://img.shields.io/badge/✨_“𝕺𝖚𝖈𝖆𝖒-𝖓𝖔𝖘_—_𝖔𝖘_𝖋𝖎𝖑𝖍𝖔𝖘_𝖉𝖆_𝖓𝖔𝖎𝖙𝖊._𝕼𝖚𝖊_𝖒𝖚́𝖘𝖎𝖈𝖆_𝖊𝖑𝖊𝖘_𝖋𝖆𝖟𝖊𝖒!”_—_𝕭𝖗𝖆𝖒_𝕾𝖙𝖔𝖐𝖊𝖗,_𝕯𝖗á𝖈𝖚𝖑𝖆-8B0000?style=for-the-badge&logoColor=FFFFFF" alt="Citação Dracula" />
 </p>
