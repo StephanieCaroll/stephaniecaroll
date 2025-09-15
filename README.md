@@ -1,6 +1,7 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
 
-  <div style="flex: 1;">
+  <!-- Coluna da esquerda (texto e skills) -->
+  <div style="flex: 1; max-width: 60%;">
 
 ### Olá, meu nome é **Stephanie Caroline!**
 
@@ -20,7 +21,8 @@
 
   </div>
 
-  <div style="flex: 1;">
+  <!-- Coluna da direita (GitHub Stats) -->
+  <div style="flex-shrink: 0;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Ilustração do status do GitHub">
 
