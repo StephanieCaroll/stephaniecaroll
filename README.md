@@ -4,7 +4,10 @@
 
 <h3>Minhas especialidades:</h3> <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /> </p>
 
-<h3>Contatos:</h3> <p> <img src="https://img.shields.io/static/v1?label=GitHub&message=StephanieCaroll&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub"> <img src="https://img.shields.io/static/v1?label=LinkedIn&message=StephanieCaroll&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="LinkedIn"> </p>
+<h3>Contatos:</h3> <p> <a href="https://github.com/StephanieCaroll" target="_blank"> <img src="https://img.shields.io/static/v1?label=GitHub&message=StephanieCaroll&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub"> </a> 
+<a href="https://linkedin.com/in/stephanie-caroline-97973430b" target="_blank"> <img src="https://img.shields.io/static/v1?label=LinkedIn&message=StephanieCaroll&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="LinkedIn"> </a> 
+<a href="mailto:stephaniecarolinedev@gmail.com"> <img src="https://img.shields.io/static/v1?label=Gmail&message=stephanie.caroline@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail" alt="Gmail"> </a> 
+<a href="https://www.instagram.com/stephaniecaroldev" target="_blank"> <img src="https://img.shields.io/static/v1?label=Instagram&message=@seu_usuario_aqui&color=E4405F&style=for-the-badge&logo=Instagram" alt="Instagram"> </a> </p>
 
 </td>
 
