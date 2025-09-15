@@ -1,7 +1,6 @@
-<table>
-  <tr>
-    <!-- Coluna da esquerda -->
-    <td>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <div style="flex: 1;">
 
 ### Olá, meu nome é **Stephanie Caroline!**
 
@@ -19,13 +18,12 @@
   <img src="https://img.shields.io/static/v1?label=LinkedIn&message=StephanieCaroll&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
 </p>
 
-    </td>
+  </div>
 
-    <!-- Coluna da direita -->
-    <td>
+  <div style="flex: 1;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Ilustração do status do GitHub">
 
-    </td>
-  </tr>
-</table>
+  </div>
+
+</div>
