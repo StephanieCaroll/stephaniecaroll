@@ -9,4 +9,4 @@
 </td>
 
 <!-- Coluna da direita --> 
-<td style="width: 40%; vertical-align: top;"> <img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Ilustração do status do GitHub" width="500"> </td> </tr> </table>
+<td style="width: 40%; vertical-align: top;"> <img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Ilustração do status do GitHub" width="700"> </td> </tr> </table>
