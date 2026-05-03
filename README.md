@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/StephanieCaroll?template=classic&base=repositories&base.indepth=false&base.hireable=false&isocalendar=false&languages=true&languages=true&languages.ignored=css,html&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.theme=dark&config.twemoji=true&config.colors.background=%23f8efd4&config.colors.text=%23af552e&config.colors.title=%23783c00" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieCaroll&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=true&v=20260502" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&background=f8efd4&ring=783c00&fire=af552e&currStreakLabel=783c00&sideLabels=783c00&currStreakNum=af552e&sideNums=af552e&dates=af552e&hide_border=true" height="160"/>
 
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/static/v1?label=Gmail&message=stephaniecarolinedev@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/stephaniecaroldev" target="_blank">
+<a href="https://www.instagram.com/steph.code" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Instagram&message=@stephaniecaroldev&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 
