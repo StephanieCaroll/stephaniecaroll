@@ -24,9 +24,8 @@
 </td>
 <td style="width: 40%; vertical-align: top; text-align: center;">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=true" width="90%" style="max-width: 800px; height: auto;"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&theme=highcontrast&background=f8efd4&stroke=783c00&ring=783c00&fire=af552e&currStreakNum=783c00&sideNums=783c00&currStreakLabel=783c00&sideLabels=783c00&dates=af552e" width="700%"/>
+
 </td>
 </tr>
 </table>
