@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td style="width: 60%; vertical-align: top;">
+<td style="width: 55%; vertical-align: top;">
 
 <h2>Olá! Eu sou a <strong>Stephanie Caroline</strong> 👩‍💻</h2>
 
@@ -22,10 +22,9 @@
 </ul>
 
 </td>
-<td style="width: 40%; vertical-align: top; text-align: center;">
+<td style="width: 45%; vertical-align: top; text-align: center;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&theme=highcontrast&background=f8efd4&stroke=783c00&ring=783c00&fire=af552e&currStreakNum=783c00&sideNums=783c00&currStreakLabel=783c00&sideLabels=783c00&dates=af552e" width="700%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&theme=highcontrast&background=f8efd4&stroke=783c00&ring=783c00&fire=af552e&currStreakNum=783c00&sideNums=783c00&currStreakLabel=783c00&sideLabels=783c00&dates=af552e" width="100%"/>
 </td>
 </tr>
 </table>
