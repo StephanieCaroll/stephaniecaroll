@@ -24,7 +24,7 @@
 </td>
 <td style="width: 40%; vertical-align: top; text-align: center;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=StephanieCaroll&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=true" width="100%"/>
 
 </td>
 </tr>
