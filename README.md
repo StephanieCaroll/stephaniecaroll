@@ -52,8 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieCaroll&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=true&cache_seconds=2300" height="160"/>
-&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieCaroll&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=true&cache_seconds=2300&include_all_commits=true&count_private=true" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&background=f8efd4&ring=783c00&fire=af552e&currStreakLabel=783c00&sideLabels=783c00&currStreakNum=af552e&sideNums=af552e&dates=af552e&hide_border=true" height="160"/>
 
 </div>
