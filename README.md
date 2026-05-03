@@ -24,7 +24,7 @@
 </td>
 <td style="width: 40%; vertical-align: top; text-align: center;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&theme=highcontrast&background=f8efd4&stroke=783c00&ring=783c00&fire=af552e&currStreakNum=783c00&sideNums=783c00&currStreakLabel=783c00&sideLabels=783c00&dates=af552e" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&theme=highcontrast&background=f8efd4&stroke=783c00&ring=783c00&fire=af552e&currStreakNum=783c00&sideNums=783c00&currStreakLabel=783c00&sideLabels=783c00&dates=af552e" width="300%"/>
 
 </td>
 </tr>
