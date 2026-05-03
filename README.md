@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieCaroll&layout=compact&theme=highcontrast&hide_border=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4" height="165"/>
+<img src="https://metrics.lecoq.io/StephanieCaroll?template=classic&base=repositories&base.indepth=false&base.hireable=false&isocalendar=false&languages=true&languages=true&languages.ignored=css,html&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.theme=dark&config.twemoji=true&config.colors.background=%23f8efd4&config.colors.text=%23af552e&config.colors.title=%23783c00" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieCaroll&background=f8efd4&ring=783c00&fire=af552e&currStreakLabel=783c00&sideLabels=783c00&currStreakNum=af552e&sideNums=af552e&dates=af552e&hide_border=true" height="160"/>
 
