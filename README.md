@@ -77,7 +77,7 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/steph.code" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=Instagram&message=@stephaniecaroldev&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/static/v1?label=Instagram&message=@steph.code&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
